@@ -1,0 +1,39 @@
+application: united-learning
+version: 20161201230824
+runtime: python27
+api_version: 1
+threadsafe: no
+
+handlers:
+  - url: /admin.*
+    script: google.appengine.ext.admin.application
+    login: admin
+  - url: /
+    static_files: public/index.html
+    upload: public/index.html
+  - url: /app.js
+    static_files: public/app.js
+    upload: public/app.js
+  - url: /app.css
+    static_files: public/app.css
+    upload: public/app.css
+  - url: /(.+\..+)$
+    static_files: client/\1
+    upload: client/.+
+  - url: /.+
+    script: main.app
+
+libraries:
+  - name: webapp2
+    version: latest
+
+builtins:
+  - remote_api: on
+  - deferred: on
+
+skip_files:
+  - '^(.*/)?.*\.py[co]$'
+  - '^(.*/)?\..*$'
+  - '^(node_modules/.*)'
+  - '^(bower_components.*$)'
+  

@@ -1,0 +1,2689 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"firebase",
+				"firebasePath"
+			],
+			[
+				"canvas_refere",
+				"canvas_reference_list.js"
+			],
+			[
+				"recent",
+				"recent_rooms.js"
+			],
+			[
+				"following_item",
+				"following_item.js"
+			],
+			[
+				"empty",
+				"empty_item.js"
+			],
+			[
+				"follow",
+				"follows.js"
+			],
+			[
+				"room_item",
+				"room_item.js"
+			],
+			[
+				"jq",
+				"jquery.mb.extruder-2.6.0"
+			],
+			[
+				"react",
+				"react-dom.js"
+			],
+			[
+				"Bok",
+				"BookModel"
+			],
+			[
+				"resolve",
+				"resolve_only_args"
+			],
+			[
+				"ri",
+				"right_menu.js"
+			],
+			[
+				"e",
+				"extend"
+			],
+			[
+				"rtc",
+				"rtc_dialog.js"
+			],
+			[
+				"chat_dial",
+				"chat_dialog.js"
+			],
+			[
+				"whitebo",
+				"whiteboard.js"
+			],
+			[
+				"id",
+				"isInside"
+			],
+			[
+				"roomM",
+				"roomManagers"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ov",
+				"overflow-y"
+			],
+			[
+				"disconn",
+				"disconnect"
+			],
+			[
+				"c",
+				"common"
+			],
+			[
+				"STA",
+				"STATE_PROGRESS"
+			],
+			[
+				"sorted",
+				"sorted_rooms"
+			],
+			[
+				"index",
+				"currentIndex"
+			],
+			[
+				"soluD",
+				"solutionDialogView"
+			],
+			[
+				"toc",
+				"toc.js"
+			],
+			[
+				"paragra",
+				"paragraph_list.js"
+			],
+			[
+				"article",
+				"article_answer_item.js"
+			],
+			[
+				"mv",
+				"mv\tmarionette.view"
+			],
+			[
+				"on",
+				"onScroll"
+			],
+			[
+				"Parag",
+				"ParagraphList"
+			],
+			[
+				"article_ite",
+				"article_item.js"
+			],
+			[
+				"option",
+				"option_item.js"
+			],
+			[
+				"optoin",
+				"option_list.js"
+			],
+			[
+				"paragraph_ite",
+				"paragraph_item.js"
+			],
+			[
+				"subh",
+				"subheader.css"
+			],
+			[
+				"subhe",
+				"subheader.js"
+			],
+			[
+				"m",
+				"mv\tmarionette.view"
+			],
+			[
+				"jqu",
+				"jquery-mousewheel/"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"view",
+				"showView"
+			],
+			[
+				"section",
+				"sections"
+			],
+			[
+				"che",
+				"checkedSections"
+			],
+			[
+				"fabric",
+				"fabricObject"
+			],
+			[
+				"getOb",
+				"getObjectByUUID"
+			],
+			[
+				"fabri",
+				"fabricObjects"
+			],
+			[
+				"arti",
+				"articles"
+			],
+			[
+				"can",
+				"canvas_control.js"
+			],
+			[
+				"clas",
+				"classmethod"
+			],
+			[
+				"ARTICLE_KE",
+				"article_key"
+			],
+			[
+				"scrollmag",
+				"scrollmagic"
+			],
+			[
+				"cls",
+				"classmethod"
+			],
+			[
+				"artic",
+				"article_key"
+			],
+			[
+				"agg",
+				"_aggregate_edition"
+			],
+			[
+				"edition",
+				"edition_paragraph_count"
+			],
+			[
+				"editi",
+				"edition_masery_sum"
+			],
+			[
+				"total",
+				"total_article_count"
+			],
+			[
+				"sess",
+				"session_key"
+			],
+			[
+				"sect",
+				"section_item.js"
+			],
+			[
+				"sec",
+				"section_list.js"
+			],
+			[
+				"sse",
+				"section_item.js"
+			],
+			[
+				"_js",
+				"_toJstreeJson"
+			],
+			[
+				"targe",
+				"targetSectionList"
+			],
+			[
+				"attache",
+				"attachedSecions"
+			],
+			[
+				"articl",
+				"articleId"
+			],
+			[
+				"artci",
+				"article_key"
+			],
+			[
+				"plogs",
+				"plogs_dict"
+			],
+			[
+				"ses",
+				"sessions"
+			],
+			[
+				"optio",
+				"optionsDict"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"quest",
+				"questionRegion"
+			],
+			[
+				"per",
+				"personTemplate"
+			],
+			[
+				"perso",
+				"personHtml"
+			],
+			[
+				"Notify",
+				"NotifyMessage"
+			],
+			[
+				"_",
+				"_setDataToChildren"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".eslintrc",
+			"settings":
+			{
+				"buffer_size": 1764,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/main.py",
+			"settings":
+			{
+				"buffer_size": 428,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/graqphql_editor/graphql_view.js",
+			"settings":
+			{
+				"buffer_size": 586,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/initialize.js",
+			"settings":
+			{
+				"buffer_size": 278,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/root.js",
+			"settings":
+			{
+				"buffer_size": 455,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/assets/index.html",
+			"settings":
+			{
+				"buffer_size": 242,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/models.py",
+			"settings":
+			{
+				"buffer_size": 328,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/schema.py",
+			"settings":
+			{
+				"buffer_size": 571,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sublimelinter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"git log cu",
+				"Git: Log Current File"
+			],
+			[
+				"git lgo cu",
+				"Git: Log Current File"
+			],
+			[
+				"gitlog cu",
+				"Git: Log Current File"
+			],
+			[
+				"git diff cu",
+				"Git: Diff Current File"
+			],
+			[
+				"git checkout cu",
+				"Git: Checkout Current File"
+			],
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git checkout c",
+				"Git: Checkout Current File"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"subliall",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"suliall",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"sublimeliall",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"htmlpre",
+				"HTMLPrettify"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"pretif",
+				"HTMLPrettify"
+			],
+			[
+				"git difcu",
+				"Git: Diff Current File"
+			],
+			[
+				"incre",
+				"Increment Selection"
+			],
+			[
+				"increme",
+				"Increment Selection"
+			],
+			[
+				"linteral",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lintall",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"git difc",
+				"Git: Diff Current File"
+			],
+			[
+				"increm",
+				"Increment Selection"
+			],
+			[
+				"incremen",
+				"Increment Selection"
+			],
+			[
+				"git dif cu",
+				"Git: Diff Current File"
+			],
+			[
+				"increment",
+				"Increment Selection"
+			],
+			[
+				"git histo",
+				"Git: Commit history"
+			],
+			[
+				"git lo cu",
+				"Git: Log Current File"
+			],
+			[
+				"git dif",
+				"Git: Diff All Files"
+			],
+			[
+				"inc",
+				"Increment Selection"
+			],
+			[
+				"in",
+				"Increment Selection"
+			],
+			[
+				"html ",
+				"HTMLPrettify"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"git  log cu",
+				"Git: Log Current File"
+			],
+			[
+				"git diff a",
+				"Git: Diff All Files"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"git checkotu cu",
+				"Git: Checkout Current File"
+			],
+			[
+				"gitl og cu",
+				"Git: Log Current File"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pret",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"gitl",
+				"Git: Log Current File"
+			],
+			[
+				"git chek",
+				"Git: Checkout Current File"
+			],
+			[
+				"git blam",
+				"Git: Blame"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"sublimelintersho",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"snipefnp",
+				"Snippet: function.property"
+			],
+			[
+				"packageins",
+				"Package Control: Install Package"
+			],
+			[
+				"packagein",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimelint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"jsonpre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"sublimelin",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"findall",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"prettyjson",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"aler",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"all",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"camel",
+				"Convert Case: camelCase"
+			],
+			[
+				"upperca",
+				"Convert Case: Upper Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"submilinterall",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lowerca",
+				"Convert Case: Lower Case"
+			],
+			[
+				"snakeca",
+				"Convert Case: snake_case"
+			],
+			[
+				"git log ",
+				"Git: Log Current File"
+			],
+			[
+				"sublimelintershowal",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"snake",
+				"Convert Case: snake_case"
+			],
+			[
+				"materi",
+				"Material Theme: Configuration"
+			],
+			[
+				"material",
+				"Material Theme: Configuration"
+			],
+			[
+				"findkeycon",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"findkeyconf",
+				"FindKeyConflicts: All Key Maps to Quick Panel"
+			],
+			[
+				"findkeyconflict",
+				"FindKeyConflicts: All Key Maps to Buffer"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git add a",
+				"Git: Add All"
+			],
+			[
+				"git st",
+				"Git: Show Tags"
+			],
+			[
+				"git stash pop",
+				"Git: Stash Pop"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"git checkout cur",
+				"Git: Checkout Current File"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Install Package Control"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 151.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/haradakunihiko/Documents/dev/playground/united-learning/client",
+		"/Users/haradakunihiko/Documents/dev/playground/united-learning/client/app",
+		"/Users/haradakunihiko/Documents/dev/playground/united-learning/server/handler"
+	],
+	"file_history":
+	[
+		"/Users/haradakunihiko/Documents/dev/playground/study/.eslintrc",
+		"/Users/haradakunihiko/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/haradakunihiko/Documents/dev/playground/study/client/app/root.js",
+		"/Users/haradakunihiko/Documents/dev/playground/study/Gruntfile.js",
+		"/Users/haradakunihiko/Documents/dev/playground/study/appengine_config.py",
+		"/Users/haradakunihiko/Documents/dev/playground/study/.babelrc",
+		"/Users/haradakunihiko/Documents/dev/playground/study/package.json",
+		"/Users/haradakunihiko/Documents/dev/playground/study/client/initialize.js",
+		"/Users/haradakunihiko/Documents/dev/playground/study/client/assets/index.html",
+		"/Users/haradakunihiko/Documents/dev/playground/study/app.yaml",
+		"/Users/haradakunihiko/Documents/dev/playground/study/node_modules/.bin/eslint",
+		"/Users/haradakunihiko/Documents/dev/playground/study/client/app/app.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/copy/copy_view.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/main.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/Gruntfile.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/main.html",
+		"/Users/haradakunihiko/Documents/dev/codegym/codegym/client/common/attendance/grid/attendance_grid.js",
+		"/Users/haradakunihiko/Documents/dev/codegym/codegym/client/common/report/list/label/show_list.js",
+		"/Users/haradakunihiko/Documents/dev/codegym/codegym/client/group/course/attendance/attendance_grid.js",
+		"/Users/haradakunihiko/Documents/dev/codegym/codegym/client/main.html",
+		"/Users/haradakunihiko/Documents/dev/codegym/codegym/client/common/report/list/edit_view.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/copy/session/paragraph_list.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/main.py",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/copy/article/article_item.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/copy/session/article_item.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/copy/session/solution_dialog/solution_dialog_view.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/handlers/plog.py",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/handlers/copy.py",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/copy/session/solution_dialog/paragraph_list.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/common/model.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/models.py",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/handlers/index.py",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/create_canvas.py",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/copy/session/canvas_form.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/copy/session/canvas.html",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/copy/session/canvas.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/copy/session/subheader.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/rests/alog.py",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/copy/session/canvas_reference_item.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/copy/session/canvas_reference_list.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/copy/session/article_item.html",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/rests/session.py",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/rests/layer.py",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/copy/session/canvas_form.html",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/copy/session/header.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/lib/marionette/backbone.marionette.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/handlers/session.py",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/rests/user.py",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/invite/connection_item.html",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/invite/connection_item.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/invite/user_item.html",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/invite/user_item.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/invite/connection_list.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/invite/user_list.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/invite/connections.html",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/handlers/oauth_google.py",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/invite/connections.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/left_menu/left_menu.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/handlers/chart.py",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/common/audio/audios_form.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/handlers/user.py",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/header.json",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/profile/user_view.html",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/profile/controller.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/group2org.py",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/app.yaml",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/console/header.html",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/header-user.html",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/personal/team/teams_view.html",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/handlers/auth.py",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/invite/invite_view.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/controller.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/handlers/asum.py",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/appengine_config.py",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/handlers/google.py",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/handlers/image.py",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/invite/invite_view.html",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/left_menu/left_menu.html",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/left_menu/group_rooms.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/left_menu/recent_rooms.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/left_menu/recent_rooms.html",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/left_menu/recent_room_list.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/left_menu/recent_room_item.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/left_menu/group_room_item.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/left_menu/user_item.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/left_menu/recent_room_item.html",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/left_menu/group_rooms.html",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/left_menu/group_room_list.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/left_menu/follows.html",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/chat_dialog/room_managers.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/lib/requests/auth.py",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/root.html",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/root.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/rests/follow.py",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/rests/thread.py",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/handlers/thread.py",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/header.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/root.css",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/common/thread/thread_item.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/personal/feed/thread_item.html",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/personal/team/tutee_item.html",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/personal/team/tutee_item.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/personal/copy/copy_view.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/common/user/user_item.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/deploy.py",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/profile/followings.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/profile/followers.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/profile/user_view.js",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/handlers/watch.py",
+		"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/handlers/star.py",
+		"/Users/haradakunihiko/Documents/dev/codegym/codegym/client/common/attachment/show_list.js",
+		"/Users/haradakunihiko/Documents/dev/codegym/codegym/client/assign/submit/show_view.js",
+		"/Users/haradakunihiko/Documents/dev/codegym/codegym/server/workers/download.py",
+		"/Users/haradakunihiko/Documents/dev/codegym/codegym/cron.yaml",
+		"/Users/haradakunihiko/Documents/dev/codegym/codegym/server/models.py",
+		"/Users/haradakunihiko/Documents/dev/codegym/codegym/server/workers/mail.py",
+		"/Users/haradakunihiko/Documents/dev/codegym/codegym/server/handlers/slog.py",
+		"/Users/haradakunihiko/Documents/dev/codegym/codegym/server/main.py",
+		"/Users/haradakunihiko/Documents/dev/codegym/codegym/server/handlers/attachment.py",
+		"/Users/haradakunihiko/Documents/dev/codegym/codegym/app.yaml",
+		"/Users/haradakunihiko/Documents/dev/codegym/codegym/server/common/notice.py",
+		"/Users/haradakunihiko/Documents/dev/codegym/codegym/server/workers/deploy.py",
+		"/Users/haradakunihiko/Documents/dev/codegym/codegym/server/handlers/notify_message.py",
+		"/Users/haradakunihiko/Documents/dev/codegym/codegym/server/handlers/user.py",
+		"/Users/haradakunihiko/Documents/dev/codegym/codegym/Gruntfile.js",
+		"/Users/haradakunihiko/Documents/dev/codegym/codegym/server/handlers/assign.py",
+		"/Users/haradakunihiko/Documents/dev/codegym/codegym/server/workers/group.py",
+		"/Users/haradakunihiko/Documents/dev/codegym/codegym/server/handlers/report.py"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"/Users/haradakunihiko/Documents/dev/codegym/codegym/client",
+			"/Users/haradakunihiko/Documents/dev/codegym/codegym/client, -main-min.js, -lib/*",
+			"/Users/haradakunihiko/Documents/dev/codegym/codegym/client/common/report/list",
+			"/Users/haradakunihiko/Documents/dev/codegym/codegym/client, -main-min.js, -lib/*",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/copy/session",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/personal/team",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client, -main-min.js",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client, -main-min.js",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server",
+			"/Users/haradakunihiko/Documents/dev/codegym/codegym/client/assign",
+			"/Users/haradakunihiko/Documents/dev/codegym/codegym/server",
+			"/Users/haradakunihiko/Documents/dev/codegym/codegym/server/workers",
+			"/Users/haradakunihiko/Documents/dev/codegym/codegym/server/handlers",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/personal",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/personal/copy",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/chat_history_dropdown",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client, -main-min.js",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client, -main-min.js, -lib/*",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/handlers",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server",
+			"/Users/haradakunihiko/Documents/dev/playground/graphql/lib",
+			"/Users/haradakunihiko/Documents/dev/playground/graphql/lib/graphene",
+			"/Users/haradakunihiko/Documents/dev/playground/graphql/server",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/common",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client, -main-min.js, -lib/*",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/chat_dialog",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client, -main-min.js",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/rests",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/book",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home/chat_dialog",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client, -lib/*, -main-min.js",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client, -lib/*",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/book/copy",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/home",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client, -lib/*, -main-min.js",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client, -lib/*",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client, -lib/* -main-min.js",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/copy/session",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/copy",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client, -main-min.js",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/copy",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/copy/session",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/handlers",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/rests",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/copy/session",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/session",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client, -main-min.js",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client, -main-min.js",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/session",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client, -lib/*, -main-min.js",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/session",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client, -lib/*, -main-min.js",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client, -main-min.js, -lib/*",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/session",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/group",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/group/team",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client, -main-min.js",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/rests",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client, -main-min.js",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client, main-min.js",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/session",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/session",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/rests",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/rests",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/session",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server/rests",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client, -lib/*, -main-min.js",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client, -lib/*",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/session",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/session",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client, -lib/*",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client/session",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/server",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish",
+			"/Users/haradakunihiko/Documents/dev/tablish/tablish/client"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"parser",
+			"AtetndanceGridView",
+			"common/attendance/grid/attendance_grid",
+			".forEach",
+			".map",
+			"LabelList",
+			"label/show_list",
+			"find",
+			"course",
+			".reduce",
+			".values",
+			"plogs",
+			"this.plogs",
+			"plog",
+			"alog_",
+			"referenceChannel",
+			"canvas-form",
+			"this.resizeSensor",
+			"session",
+			"isOwner",
+			"this.owner",
+			"article",
+			"session",
+			"article",
+			"firebasePath",
+			"firebase",
+			"article",
+			"session",
+			"Canvas",
+			"Chat",
+			"Canvas",
+			"canvas",
+			"Canvas",
+			"chat",
+			"Chat",
+			"saveCanvas",
+			"reloadCanvas",
+			"canvasData",
+			"Canvas",
+			"alog",
+			"this.getChildView",
+			"canvasReference",
+			"adjustCanvasSize",
+			"isOwner",
+			"saveAlog",
+			"saveALog",
+			"CanvasReferenceList",
+			"this.owner",
+			"saveCanvas",
+			"isOwner",
+			"referenceChannel",
+			"this.canvasReferences",
+			"Canvas",
+			"canvasReferences",
+			"header",
+			"personal/copy",
+			"book",
+			"_isRendered",
+			"_isRendered\n",
+			"isRendered",
+			"this.initialized",
+			"paragraphs",
+			"this.alog",
+			"this.alogs",
+			"createPromise",
+			"this.alog",
+			"alog",
+			"_get_articles",
+			"canvas",
+			"this.alog",
+			"createPromise",
+			"saveALog",
+			"saveALog\n",
+			"Canvas",
+			"Follow",
+			"setOption",
+			"mergeOptions",
+			"setOption",
+			"setOptions",
+			"nonUsersCheckAll",
+			"connection",
+			"onClickUserCheckAll",
+			"connection-list",
+			"connection",
+			"this.connections",
+			"connections",
+			"nonU",
+			"connection",
+			"nonuser-check",
+			"nonuser",
+			"connections",
+			"nonUsersCheckAll",
+			"addClass",
+			"success",
+			"connection-list",
+			"user-list",
+			"imageUrl",
+			"name",
+			"ConnectionItem",
+			"connection",
+			"$.get",
+			"process",
+			"$.get",
+			"user",
+			"next",
+			"iterto",
+			"User",
+			"friend",
+			"h4",
+			"fa fa-spinner fa-spin",
+			"className: 'row',",
+			"connections",
+			"displayName",
+			"name",
+			"google",
+			"handlers.google",
+			"google",
+			"absolute_import",
+			"right_menu",
+			"people",
+			"RoomItem",
+			"room-list",
+			"RoomList",
+			"room",
+			"rooms",
+			"this.roomLabel",
+			"roomLabel",
+			"RoomItem"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"followee",
+			"#right-menu.extruder",
+			"#right-menu .extruder",
+			"#f5f8fa",
+			"#right-menu .extruder",
+			"222",
+			",",
+			"\\t",
+			"¥t",
+			"curl -o 1.mp4 ",
+			"curl -o 1.mp4",
+			"room:leave",
+			"curl -o 1.jpeg",
+			"curl -o number.jpeg",
+			"'",
+			" , ",
+			" ",
+			",",
+			"Plog",
+			"Alog",
+			"Plog",
+			".solution_panel .",
+			"solution_panel .",
+			"",
+			").key.delete()",
+			"models.Input.get_by_urlsafe(",
+			"',",
+			"'",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".eslintrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1764,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50,
+								50
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "server/main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 428,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								187,
+								187
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										192,
+										193
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										109,
+										110
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/app/graqphql_editor/graphql_view.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 586,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								384,
+								115
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										130,
+										131
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										113,
+										114
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/initialize.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 278,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								278,
+								278
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "client/app/root.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 455,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								455,
+								455
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "client/assets/index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								242,
+								242
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "server/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "server/schema.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 571,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								571,
+								571
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "",
+	"project": "unitee-learning.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"eslint",
+				"node_modules/.bin/eslint"
+			],
+			[
+				"gruntf",
+				"Gruntfile.js"
+			],
+			[
+				"copy_viewjs",
+				"client/copy/copy_view.js"
+			],
+			[
+				"mainht",
+				"client/main.html"
+			],
+			[
+				"copyp",
+				"server/handlers/copy.py"
+			],
+			[
+				"mainp",
+				"server/main.py"
+			],
+			[
+				"modeljs",
+				"client/common/model.js"
+			],
+			[
+				"model",
+				"server/models.py"
+			],
+			[
+				"plogp",
+				"server/handlers/plog.py"
+			],
+			[
+				"article_itemjs",
+				"client/copy/article/article_item.js"
+			],
+			[
+				"modelsp",
+				"server/models.py"
+			],
+			[
+				"indexp",
+				"server/handlers/index.py"
+			],
+			[
+				"canvasjs",
+				"client/copy/session/canvas.js"
+			],
+			[
+				"alogp",
+				"server/rests/alog.py"
+			],
+			[
+				"layerp",
+				"server/rests/layer.py"
+			],
+			[
+				"sessio",
+				"server/rests/session.py"
+			],
+			[
+				"models",
+				"server/models.py"
+			],
+			[
+				"sessionp",
+				"server/rests/session.py"
+			],
+			[
+				"marionette",
+				"client/lib/marionette/backbone.marionette.js"
+			],
+			[
+				"article_item.js",
+				"client/copy/article/article_item.js"
+			],
+			[
+				"oauthg",
+				"server/handlers/oauth_google.py"
+			],
+			[
+				"marione",
+				"client/lib/marionette/backbone.marionette.js"
+			],
+			[
+				"marionettejs",
+				"client/lib/marionette/backbone.marionette.js"
+			],
+			[
+				"oauthgo",
+				"server/handlers/oauth_google.py"
+			],
+			[
+				"userp",
+				"server/rests/user.py"
+			],
+			[
+				"modelp",
+				"server/models.py"
+			],
+			[
+				"oauthgoo",
+				"server/handlers/oauth_google.py"
+			],
+			[
+				"userpy",
+				"server/handlers/user.py"
+			],
+			[
+				"profile",
+				"client/profile/controller.js"
+			],
+			[
+				"headerht",
+				"client/console/header.html"
+			],
+			[
+				"mainjs",
+				"client/main.js"
+			],
+			[
+				"appya",
+				"app.yaml"
+			],
+			[
+				"group2",
+				"server/group2org.py"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"gruntfi",
+				"Gruntfile.js"
+			],
+			[
+				"auth",
+				"server/handlers/auth.py"
+			],
+			[
+				"modejs",
+				"client/common/model.js"
+			],
+			[
+				"authp",
+				"server/handlers/auth.py"
+			],
+			[
+				"imagep",
+				"server/handlers/image.py"
+			],
+			[
+				"mai",
+				"server/main.py"
+			],
+			[
+				"mainj",
+				"client/main.js"
+			],
+			[
+				"appyam",
+				"app.yaml"
+			],
+			[
+				"roommanag",
+				"client/home/chat_dialog/room_managers.js"
+			],
+			[
+				"gru",
+				"Gruntfile.js"
+			],
+			[
+				"user",
+				"server/rests/user.py"
+			],
+			[
+				"",
+				"server/handlers/thread.py"
+			],
+			[
+				"thread",
+				"server/handlers/thread.py"
+			],
+			[
+				"threadp",
+				"server/rests/thread.py"
+			],
+			[
+				"followp",
+				"server/rests/follow.py"
+			],
+			[
+				"deply",
+				"server/deploy.py"
+			],
+			[
+				"common/user/user_itemjs",
+				"client/common/user/user_item.js"
+			],
+			[
+				"tuteeitemht",
+				"client/personal/team/tutee_item.html"
+			],
+			[
+				"feeditemht",
+				"client/personal/feed/thread_item.html"
+			],
+			[
+				"threadjs",
+				"client/common/thread/thread_item.js"
+			],
+			[
+				"left_me",
+				"client/home/left_menu/left_menu.html"
+			],
+			[
+				"rootcs",
+				"client/home/root.css"
+			],
+			[
+				"rootht",
+				"client/home/root.html"
+			],
+			[
+				"rootjs",
+				"client/home/root.js"
+			],
+			[
+				"headerjs",
+				"client/home/header.js"
+			],
+			[
+				"hue",
+				"client/home/header-user.html"
+			],
+			[
+				"profile/user_view",
+				"client/profile/user_view.html"
+			],
+			[
+				"watch",
+				"server/handlers/watch.py"
+			],
+			[
+				"star",
+				"server/handlers/star.py"
+			],
+			[
+				"attachment",
+				"server/handlers/attachment.py"
+			],
+			[
+				"attachmen",
+				"server/handlers/attachment.py"
+			],
+			[
+				"common/attachment/show_list",
+				"client/common/attachment/show_list.js"
+			],
+			[
+				"main",
+				"server/main.py"
+			],
+			[
+				"cron",
+				"cron.yaml"
+			],
+			[
+				"mail",
+				"server/workers/mail.py"
+			],
+			[
+				"mailp",
+				"server/workers/mail.py"
+			],
+			[
+				"slogp",
+				"server/handlers/slog.py"
+			],
+			[
+				"assingp",
+				"server/handlers/assign.py"
+			],
+			[
+				"reportjs",
+				"client/trainer/report/report_view.js"
+			],
+			[
+				"reportp",
+				"server/handlers/report.py"
+			],
+			[
+				"download",
+				"server/workers/download.py"
+			],
+			[
+				"crony",
+				"cron.yaml"
+			],
+			[
+				"cronp",
+				"lib/Crypto/Protocol/AllOrNothing.py"
+			],
+			[
+				"handleruser",
+				"server/handlers/user.py"
+			],
+			[
+				"common/no",
+				"server/common/notice.py"
+			],
+			[
+				"notify_",
+				"server/handlers/notify_message.py"
+			],
+			[
+				"deplo",
+				"server/workers/deploy.py"
+			],
+			[
+				"apyam",
+				"app.yaml"
+			],
+			[
+				"appy",
+				"app.yaml"
+			],
+			[
+				"follwoings",
+				"client/profile/followings.js"
+			],
+			[
+				"chatdialogjs",
+				"client/home/chat_dialog/chat_dialog.js"
+			],
+			[
+				"user_viewjs",
+				"client/profile/user_view.js"
+			],
+			[
+				"chat_dialogjs",
+				"client/home/chat_dialog/chat_dialog.js"
+			],
+			[
+				"roomp",
+				"server/handlers/room.py"
+			],
+			[
+				"profile/userviewjs",
+				"client/profile/user_view.js"
+			],
+			[
+				"profile/cont",
+				"client/profile/controller.js"
+			],
+			[
+				"depl",
+				"server/deploy.py"
+			],
+			[
+				"rest/foll",
+				"server/rests/follow.py"
+			],
+			[
+				"index",
+				"server/handlers/index.py"
+			],
+			[
+				"user_editjs",
+				"client/profile/user_edit.js"
+			],
+			[
+				"user.p",
+				"server/rests/user.py"
+			],
+			[
+				"user_edit",
+				"client/profile/user_edit.html"
+			],
+			[
+				"mode",
+				"server/models.py"
+			],
+			[
+				"user_view.html",
+				"client/personal/user/user_view.html"
+			],
+			[
+				"user_viewht",
+				"client/console/user/user_view.html"
+			],
+			[
+				"restuserp",
+				"server/rests/user.py"
+			],
+			[
+				"leftroomitem",
+				"client/home/left_menu/room_item.js"
+			],
+			[
+				"draw",
+				"client/lib/drawer/drawer.js"
+			],
+			[
+				"drawerjs",
+				"client/lib/drawer/drawer.js"
+			],
+			[
+				"room.p",
+				"server/handlers/room.py"
+			],
+			[
+				"room",
+				"server/handlers/room.py"
+			],
+			[
+				"deployp",
+				"server/deploy.py"
+			],
+			[
+				"leftmenujs",
+				"client/home/left_menu/left_menu.js"
+			],
+			[
+				"marionett",
+				"client/lib/marionette/backbone.marionette.js"
+			],
+			[
+				"userview",
+				"client/search/user/user_view.html"
+			],
+			[
+				"marionet",
+				"client/lib/marionette/backbone.marionette.js"
+			],
+			[
+				"userviewht",
+				"client/search/user/user_view.html"
+			],
+			[
+				"followfor",
+				"client/personal/follow/follow_form.js"
+			],
+			[
+				"maics",
+				"client/main.css"
+			],
+			[
+				"sidemeu",
+				"client/home/side_menu/side_menu.css"
+			],
+			[
+				"maincs",
+				"client/main.css"
+			],
+			[
+				"rootc",
+				"client/home/root.css"
+			],
+			[
+				"mainc",
+				"client/main.css"
+			],
+			[
+				"main-",
+				"client/main-cfg.js"
+			],
+			[
+				"bowerjs",
+				"bower.json"
+			],
+			[
+				"iscrol",
+				"client/lib/iscroll/build/iscroll.js"
+			],
+			[
+				"dr",
+				"client/lib/drawer/drawer.js"
+			],
+			[
+				"drawercs",
+				"client/lib/drawer/drawer.css"
+			],
+			[
+				"main-cf",
+				"client/main-cfg.js"
+			],
+			[
+				"appcf",
+				"appengine_config.py"
+			],
+			[
+				"clientmainjs",
+				"client/main.js"
+			],
+			[
+				"rightht",
+				"client/home/right_menu/right_menu.html"
+			],
+			[
+				"rightme",
+				"client/home/right_menu/right_menu.html"
+			],
+			[
+				"mbe",
+				"client/lib/jquery.mb.extruder-2.6.0/inc/mbExtruder.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
